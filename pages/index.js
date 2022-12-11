@@ -20,10 +20,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>Generate a story set in our universe</h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitle here</h2>
+            <h2>Write some context as to what story you want to see</h2>
           </div>
         </div>
         <div className="prompt-container">
