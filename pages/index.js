@@ -42,7 +42,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Generate a story set in our universe</h1>
+            <h1>Generate a story set in our universe of Elandria</h1>
           </div>
           <div className="header-subtitle">
             <h2>Write some context as to what story you want to see</h2>
